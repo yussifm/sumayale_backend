@@ -24,6 +24,10 @@ venv/
 *.safetensors
 */model.safetensors
 
+.env
+
+
 #python projects fastapi and  models
 
 
+.vercel
